@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-18T01:06:39 EET" name="Default suite" finished-at="2021-03-18T01:07:19 EET" duration-ms="40016">
+    <groups>
+    </groups>
+    <test started-at="2021-03-18T01:06:39 EET" name="Default test" finished-at="2021-03-18T01:07:19 EET" duration-ms="40016">
+      <class name="tests.Adding_Items_To_Cart">
+        <test-method is-config="true" signature="open_driver()[pri:0, instance:tests.Adding_Items_To_Cart@7748410a]" started-at="2021-03-18T01:06:39 EET" name="open_driver" finished-at="2021-03-18T01:06:50 EET" duration-ms="11219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_driver -->
+        <test-method signature="add_items()[pri:1, instance:tests.Adding_Items_To_Cart@7748410a]" started-at="2021-03-18T01:06:50 EET" name="add_items" finished-at="2021-03-18T01:06:57 EET" duration-ms="6666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_items -->
+        <test-method signature="product_steps()[pri:2, instance:tests.Adding_Items_To_Cart@7748410a]" started-at="2021-03-18T01:06:57 EET" name="product_steps" finished-at="2021-03-18T01:07:10 EET" duration-ms="13263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_steps -->
+        <test-method signature="cart_steps()[pri:3, instance:tests.Adding_Items_To_Cart@7748410a]" started-at="2021-03-18T01:07:10 EET" name="cart_steps" finished-at="2021-03-18T01:07:14 EET" duration-ms="4023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart_steps -->
+        <test-method signature="cheking_price_step()[pri:4, instance:tests.Adding_Items_To_Cart@7748410a]" started-at="2021-03-18T01:07:14 EET" name="cheking_price_step" finished-at="2021-03-18T01:07:15 EET" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cheking_price_step -->
+        <test-method is-config="true" signature="browser_close()[pri:0, instance:tests.Adding_Items_To_Cart@7748410a]" started-at="2021-03-18T01:07:15 EET" name="browser_close" finished-at="2021-03-18T01:07:19 EET" duration-ms="4390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- tests.Adding_Items_To_Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
